@@ -1,6 +1,6 @@
 hamburgerbtn = document.getElementById('hamburgerbtn');
 menulist = document.getElementsByClassName('mobileView-menu');
-
+3
 let view = 0;
 hamburgerbtn.addEventListener('click',(()=>{
   console.log(view)
